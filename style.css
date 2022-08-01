@@ -1,0 +1,52 @@
+#first_line {
+  font-family: Helvetica;
+  background-color: red;
+  font-size: 32px;
+  padding: 5px;
+  display: flex;
+  justify-content: space-between;
+}
+
+#second_line {
+  background-color: black;
+  color: white;
+  font-size: 25px;
+  padding: 5px;
+  display: flex;
+  justify-content: space-between;
+}
+h1 {
+  font-size: 80px;
+  font-family: Georgia;
+}
+a:link {
+  color: black;
+}
+
+a:visited {
+  color: black;
+}
+#highschool {
+  background-color: red;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+}
+h2 {
+  font-size: 20px;
+}
+#highschool_pics {
+  display: flex;
+  justify-content: space-around;
+  background-color: black;
+}
+#college {
+  display: flex;
+  background-color: red;
+  color: whitesmoke;
+}
+#college_pics {
+  background-color: black;
+  display: flex;
+  justify-content: space-between;
+}
